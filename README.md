@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Isadora Macedo 😁
 
-![19d8337c97f648b82ae50705d4808560](https://github.com/user-attachments/assets/27b46235-825e-461a-870d-b6ffb1cf2429)
+![tumblr_lzkeofhbCD1qm6oc3o1_500](https://github.com/user-attachments/assets/88f82b4a-0acc-484f-9365-e69c3b023494)
 
 ##
 
@@ -15,6 +15,6 @@
 ##
 
 ### Contatos 📱
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.a.santos@aluno.senai.br) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dracula)](https://www.linkedin.com/in/eukaueantonio?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isa22queiroz@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dracula)]()
 
 
