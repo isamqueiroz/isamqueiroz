@@ -1,11 +1,13 @@
 ### Olá! Seja Bem-Vindo(a)!
 ### Meu nome é Isadora Macedo 😁
 
+atualmente estou no terceiro termo, aprendendo sobre JavaScript e React.😁
+
 ![tumblr_lzkeofhbCD1qm6oc3o1_500](https://github.com/user-attachments/assets/88f82b4a-0acc-484f-9365-e69c3b023494)
 
 ##
 
-### Tecnologias que eu tenho conhecimento 👨‍💻
+###                                                  🌟Tecnologias que eu tenho conhecimento 👨‍💻
 <div style="display: inline_block"><br/>
   
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
