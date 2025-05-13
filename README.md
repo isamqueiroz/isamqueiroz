@@ -3,9 +3,9 @@
 
 atualmente estou no terceiro termo, aprendendo sobre JavaScript e React.😁
 
-🏫 Cursando Desenvolvimento de Sistemas
-📚 Estudando CSS, HTML, JS e C++
-⛬ Futura Desenvolvedora
+- 🏫 Cursando Desenvolvimento de Sistemas 
+- 📚 Estudando CSS, HTML, JS e C++
+- ⛬ Futura Desenvolvedora
 
 ![tumblr_lzkeofhbCD1qm6oc3o1_500](https://github.com/user-attachments/assets/88f82b4a-0acc-484f-9365-e69c3b023494)
 
